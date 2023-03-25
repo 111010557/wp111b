@@ -38,10 +38,6 @@ input[type="date"] {
     margin-bottom: 10px;
 }
 
-input[type="radio"] {
-    margin-right: 10px;
-}
-
 input[type="submit"] {
     background-color: #007bff;
     color: #fff;
