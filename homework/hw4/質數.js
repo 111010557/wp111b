@@ -14,7 +14,8 @@ function isPrime(num)
     }
     return true;
   }
-  while(i=1)
+
+
   {
   const prompt=require("prompt-sync")({sigint:true}); //提示同步 消除錯誤
   const num = parseInt(prompt("Enter the number:"));
